@@ -1,0 +1,8 @@
+GITHub UI Ooverview:
+1. Create Git Hub account
+2. Create organization
+3. Create Team
+4. Assign users to the teams
+5. Create Repositories to maintain the code
+6. Permission: (Public and Private repository)
+
