@@ -6,3 +6,4 @@ GITHub UI Ooverview:
 5. Create Repositories to maintain the code
 6. Permission: (Public and Private repository)
 
+We can able to give access to user level and Team level as well.
